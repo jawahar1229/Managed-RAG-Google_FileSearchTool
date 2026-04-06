@@ -15,7 +15,7 @@ pip install pip-system-certs   # Only if behind a corporate firewall
 
 ### 2. Generate API Key
 
-1. Visit **Google AI Studio**
+1. Visit **Google AI Studio** at https://aistudio.google.com/api-keys
 2. Create an API key
 3. Replace `<<YOUR_API_KEY>>` in the notebook
 
