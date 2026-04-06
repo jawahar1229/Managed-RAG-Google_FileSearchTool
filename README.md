@@ -26,7 +26,7 @@ pip install pip-system-certs   # Only if behind a corporate firewall
 ```
 .
 ├── README.md
-├── knowledge_base.ipynb
+├── Google_GenAI_ManagedRAG_FileSearch.ipynb
 └── my articles/
     ├── doc1.pdf
     ├── notes.txt
